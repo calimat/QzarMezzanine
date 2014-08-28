@@ -1,4 +1,6 @@
 *.pyo
+*.pyc
+*.db
 .DS_Store
 .coverage
 
